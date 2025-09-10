@@ -1,9 +1,9 @@
 ---
 layout: page
-title: BDS 311 - Computational Approaches to Biological Data
+title: Warren Lab
 ---
 
-## Winter 2025
+## Testing
 
 
 ### Lecture: Tuesday/Thursday 10:00-11:20am, ALS 4000

@@ -8,8 +8,9 @@ Our lab is broadly interested in the mechanisms underlying complex animal behavi
 
 </div>   
 
+### Publications
 
-### [Syllabus & Course Policies](./syllabus_25.md) 
+### [Google Scholar](https://scholar.google.com/citations?user=uRoy8QsAAAAJ&hl=en)) 
 
 ### Instructor
 <img src="./assets/images/twheadshot_square.jpg" width="75" height="75" align='center'/>      

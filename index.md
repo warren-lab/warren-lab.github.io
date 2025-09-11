@@ -3,17 +3,6 @@ layout: page
 title: Warren Lab
 ---
 
-## Testing
-
-
-### Lecture: Tuesday/Thursday 10:00-11:20am, ALS 4000
-### Help Session: Wednesday (1-3pm), Cordley 2212
-
-### Course Description
- <!---
-  will replace this image
- <img src="./assets/images/covidtrace_color_rev-01.png" width="390" height="270" align='right'/> 
--->
  <div style="text-align: justify"> 
 Our lab is broadly interested in the mechanisms underlying complex animal behaviors, with a particular focus on the scale and logic by which insects move at a landscape scale -- which has crucial impacts on agriculture, conservation, and human health. We strive to make precise, quantitative measurements of insect behavior in ethological contexts — both in the lab and the field. This often involves pairing custom-built imaging systems and novel computer vision analysis methods. We are using these computational approaches to study the long-distance dispersal of tiny fruit flies, including agricultural pest species. Furthermore, in tandem with ecologists and taxonomists, we are developing low-cost, open-source systems to monitor the range and movement of insect pollinators, including threatened and endangered species. 
 

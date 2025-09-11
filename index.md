@@ -4,7 +4,7 @@ title: Warren Lab
 ---
 
  <div style="text-align: justify"> 
-Our lab is broadly interested in the mechanisms underlying complex animal behaviors, with a particular focus on the scale and logic by which insects move at a landscape scale <span>&#8212;</span> which has crucial impacts on agriculture, conservation, and human health. We strive to make precise, quantitative measurements of insect behavior in ethological contexts — both in the lab and the field. This often involves pairing custom-built imaging systems and novel computer vision analysis methods. We are using these computational approaches to study the long-distance dispersal of tiny fruit flies, including agricultural pest species. Furthermore, in tandem with ecologists and taxonomists, we are developing low-cost, open-source systems to monitor the range and movement of insect pollinators, including threatened and endangered species. 
+Our lab is broadly interested in the mechanisms underlying complex animal behaviors, with a particular focus on the scale and logic by which insects move at a landscape scale <span>&#8212;</span> which has crucial impacts on agriculture, conservation, and human health. We strive to make precise, quantitative measurements of insect behavior in ethological contexts, both in the lab and the field. This often involves pairing custom-built imaging systems and novel computer vision analysis methods. We are using these computational approaches to study the long-distance dispersal of tiny fruit flies, including agricultural pest species. Furthermore, in tandem with ecologists and taxonomists, we are developing low-cost, open-source systems to monitor the range and movement of insect pollinators, including threatened and endangered species. 
 
 </div>   
 

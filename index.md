@@ -22,7 +22,7 @@ tim.warren AT oregonstate.edu
   <div style="display: inline-block; text-align: left; margin-left: 0px;">
     <img src="./images/getz_headshot.jpg" width="75" height="75" alt="Instructor 1"><br>
     <strong>Michael Getz </strong><br>
-    davidson AT oregonstate.edu
+    getzm AT oregonstate.edu
   </div>
 <div style="display: inline-block; text-align: left; margin-left: 20px;">
     <img src="./images/hodge_headshot.jpb" width="75" height="75" alt="Instructor 4"><br>

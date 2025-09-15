@@ -49,7 +49,7 @@ tim.warren AT oregonstate.edu
  
  ### Undergraduate Students
  <!-- Third Row -->
-<div style="text-align: left;">
+<div style="text-align: left;margin-top:0px">
   <div style="display: inline-block; text-align: left; margin-left: 0px;">
     <img src="./images/savkin_headshot.jpg" width="75" height="75" alt="Instructor 1"><br>
     <strong>Konstantin Savkin </strong><br>
@@ -58,6 +58,7 @@ tim.warren AT oregonstate.edu
  </div>
 
 ### Alumni
+<div style="text-align: left;margin-top:0px">
 <div style="display: inline-block; text-align: left; margin-left: 0px;">
     <img src="./images/rendon_headshot.jpg" width="75" height="75" alt="Instructor 4"><br>
     <strong>Dalila Rendon</strong><br>

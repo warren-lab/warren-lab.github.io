@@ -8,7 +8,7 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Biological Data Sciences 311
+title : Warren Lab, Oregon State University
 author :
   name : Timothy Warren
   email : timlwarren@gmail.com
@@ -16,7 +16,7 @@ author :
   
 
 # NOTE: Replacing this next line with your own URL
-production_url : https://timothylwarren.github.io/bds311
+production_url : https://warren-lab.github.io/
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)

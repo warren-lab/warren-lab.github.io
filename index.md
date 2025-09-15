@@ -62,7 +62,7 @@ tim.warren AT oregonstate.edu
     <img src="./images/rendon_headshot.jpg" width="75" height="75" alt="Instructor 4"><br>
     <strong>Dalila Rendon</strong><br>
 
-
+</div>
 <div style="display: inline-block; text-align: left; margin: 30px;">
     <img src="./assets/images/blank_avatar" width="75" height="75" alt="Instructor 4"><br>
     <strong>Logan Rower</strong><br>

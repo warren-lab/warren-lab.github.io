@@ -25,7 +25,7 @@ tim.warren AT oregonstate.edu
     getzm AT oregonstate.edu
   </div>
 <div style="display: inline-block; text-align: left; margin: 30px;">
-    <img src="./images/hodge_headshot.jpb" width="75" height="75" alt="Instructor 4"><br>
+    <img src="./images/hodge_headshot.jpg" width="75" height="75" alt="Instructor 4"><br>
     <strong>Liam Hodge</strong><br>
     hodge AT oregonstate.edu
   </div>
@@ -40,7 +40,7 @@ tim.warren AT oregonstate.edu
     davidson AT oregonstate.edu
   </div>
 <div style="display: inline-block; text-align: left; margin: 30px;">
-    <img src="./images/kei_headshot.jpg" width="75" height="75" alt="Instructor 4"><br>
+    <img src="./images/horikawa_headshot.jpg" width="75" height="75" alt="Instructor 4"><br>
     <strong>Kei Horikawa</strong><br>
     horikawa AT oregonstate.edu
   </div>

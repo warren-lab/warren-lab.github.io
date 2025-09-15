@@ -33,7 +33,7 @@ tim.warren AT oregonstate.edu
   
  ### Graduate Students
  <!-- Second Row -->
-<div style="text-align: left;">
+<div style="text-align: left;margin-top:0px">
   <div style="display: inline-block; text-align: left; margin-left: 0px;">
     <img src="./images/nate_headshot.jpg" width="75" height="75" alt="Instructor 1"><br>
     <strong>Nate Davidson </strong><br>

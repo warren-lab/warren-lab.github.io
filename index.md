@@ -24,39 +24,52 @@ tim.warren AT oregonstate.edu
     <strong>Michael Getz </strong><br>
     getzm AT oregonstate.edu
   </div>
-<div style="display: inline-block; text-align: left; margin-left: 20px;">
+<div style="display: inline-block; text-align: left; margin: 30px;">
     <img src="./images/hodge_headshot.jpb" width="75" height="75" alt="Instructor 4"><br>
     <strong>Liam Hodge</strong><br>
     hodge AT oregonstate.edu
   </div>
- 
-### Graduate Students
- <!-- First Row -->
+  </div>
+  
+ ### Graduate Students
+ <!-- Second Row -->
 <div style="text-align: left;">
   <div style="display: inline-block; text-align: left; margin-left: 0px;">
     <img src="./images/nate_headshot.jpg" width="75" height="75" alt="Instructor 1"><br>
     <strong>Nate Davidson </strong><br>
     davidson AT oregonstate.edu
   </div>
-<div style="display: inline-block; text-align: left; margin-left: 20px;">
+<div style="display: inline-block; text-align: left; margin: 30px;">
     <img src="./images/kei_headshot.jpg" width="75" height="75" alt="Instructor 4"><br>
     <strong>Kei Horikawa</strong><br>
     horikawa AT oregonstate.edu
   </div>
-
+ </div> 
+ 
+ 
  ### Undergraduate Students
  <!-- First Row -->
 <div style="text-align: left;">
   <div style="display: inline-block; text-align: left; margin-left: 0px;">
-    <img src="./images/savkin_headshot.jpg" width="75" height="75" alt="Instructor 1"><br>
-    <strong>Konstantin Savkin </strong><br>
+    <img src="./images/rendon_headshot.jpg" width="75" height="75" alt="Instructor 1"><br>
+    <strong>Dalila Rendon </strong><br>
     
   </div>
-<div style="display: inline-block; text-align: left; margin-left: 20px;">
+ </div>
+
+### Alumni
+<div style="display: inline-block; text-align: left; margin: 0px;">
+    <img src="./assets/images/rower_headshot.jpg" width="75" height="75" alt="Instructor 4"><br>
+    <strong>Logan Rower</strong><br>
+
+
+<div style="display: inline-block; text-align: left; margin: 30px;">
     <img src="./assets/images/rower_headshot.jpg" width="75" height="75" alt="Instructor 4"><br>
     <strong>Logan Rower</strong><br>
  
   </div>
+ </div>
+
 
 ### Mailing Address 
 

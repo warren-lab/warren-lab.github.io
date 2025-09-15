@@ -8,8 +8,6 @@ Our lab is broadly interested in the mechanisms underlying complex animal behavi
 
 </div>   
 
-### Publications
-
 ### [Google Scholar](https://scholar.google.com/citations?user=uRoy8QsAAAAJ&hl=en)
 
 ### Principal Investigator

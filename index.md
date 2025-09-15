@@ -20,12 +20,12 @@ tim.warren AT oregonstate.edu
 <!-- First Row -->
 <div style="text-align: left;">
   <div style="display: inline-block; text-align: left; margin-left: 0px;">
-    <img src="./assets/images/getz_headshot.jpg" width="75" height="75" alt="Instructor 1"><br>
+    <img src="./images/getz_headshot.jpg" width="75" height="75" alt="Instructor 1"><br>
     <strong>Michael Getz </strong><br>
     davidson AT oregonstate.edu
   </div>
 <div style="display: inline-block; text-align: left; margin-left: 20px;">
-    <img src="./assets/images/hodge_headshot.jpb" width="75" height="75" alt="Instructor 4"><br>
+    <img src="./images/hodge_headshot.jpb" width="75" height="75" alt="Instructor 4"><br>
     <strong>Liam Hodge</strong><br>
     hodge AT oregonstate.edu
   </div>
@@ -34,23 +34,23 @@ tim.warren AT oregonstate.edu
  <!-- First Row -->
 <div style="text-align: left;">
   <div style="display: inline-block; text-align: left; margin-left: 0px;">
-    <img src="./assets/images/nate_headshot.jpg" width="75" height="75" alt="Instructor 1"><br>
+    <img src="./images/nate_headshot.jpg" width="75" height="75" alt="Instructor 1"><br>
     <strong>Nate Davidson </strong><br>
     davidson AT oregonstate.edu
   </div>
 <div style="display: inline-block; text-align: left; margin-left: 20px;">
-    <img src="./assets/images/kei_headshot.jpg" width="75" height="75" alt="Instructor 4"><br>
+    <img src="./images/kei_headshot.jpg" width="75" height="75" alt="Instructor 4"><br>
     <strong>Kei Horikawa</strong><br>
     horikawa AT oregonstate.edu
   </div>
 
-### Alumni
+ ### Undergraduate Students
  <!-- First Row -->
 <div style="text-align: left;">
   <div style="display: inline-block; text-align: left; margin-left: 0px;">
-    <img src="./assets/images/rendon_headshot.jpg" width="75" height="75" alt="Instructor 1"><br>
-    <strong>Dalila Rendon </strong><br>
-    former postdoc, now faculty at Oregon State
+    <img src="./images/savkin_headshot.jpg" width="75" height="75" alt="Instructor 1"><br>
+    <strong>Konstantin Savkin </strong><br>
+    
   </div>
 <div style="display: inline-block; text-align: left; margin-left: 20px;">
     <img src="./assets/images/rower_headshot.jpg" width="75" height="75" alt="Instructor 4"><br>

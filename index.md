@@ -24,12 +24,12 @@ tim.warren AT oregonstate.edu
     <strong>Michael Getz </strong><br>
     getzm AT oregonstate.edu
   </div>
-<div style="display: inline-block; text-align: left; margin: 30px;">
+ <div style="display: inline-block; text-align: left; margin: 30px;">
     <img src="./images/hodge_headshot.jpg" width="75" height="75" alt="Instructor 4"><br>
     <strong>Liam Hodge</strong><br>
     hodge AT oregonstate.edu
   </div>
-  </div>
+ </div>
   
  ### Graduate Students
  <!-- Second Row -->

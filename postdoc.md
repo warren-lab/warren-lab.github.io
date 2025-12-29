@@ -13,6 +13,6 @@ The initial appointment is for 1 year, with start date between February 1 and Ap
 - [www.ponisiolab.com](www.ponisiolab.cpm)
 - [https://warren-lab.github.io/](https://warren-lab.github.io/) <br>
 This position is available immediately. 
-For full consideration, **please submit your materials by Monday, January 12, 2025.** 
+For full consideration, **please submit your materials by Friday, January 9, 2025.** 
 
 <br>Please forward this announcement to any interested parties.

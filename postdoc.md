@@ -1,4 +1,9 @@
-## Immediately available: Postdoctoral position at the interface of bumble bee ecology and computer vision.
+---
+layout: page
+title: Immediately available:<br> Postdoctoral position at the interface of bumble bee ecology and computer vision.
+---
+
+
 
 <br>We seek to hire a postdoctoral scholar to develop and apply automated, camera-based methods to study the movement and abundance of insect pollinators. A particular focus is monitoring threatened and endangered bumble bees. The position is co-supervised by Profs. Timothy Warren (Oregon State University Corvallis, OR) and Lauren Ponisio (University of Oregon; Eugene, OR). This is a unique opportunity to join a funded, interdisciplinary collaboration between Oregon State University, the University of Oregon, the National Council for Air and Stream Improvement (NCASI), Cannabis for Conservation, and the California Department of Fish and Wildlife. 
 

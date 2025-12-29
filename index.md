@@ -10,6 +10,8 @@ Our lab is broadly interested in mechanisms underlying complex animal behaviors,
 
 ### [Publications - Google Scholar](https://scholar.google.com/citations?user=uRoy8QsAAAAJ&hl=en)
 
+### [Postdoc Ad]((./postdoc.md)
+
 ### Principal Investigator
 <img src="./assets/images/twheadshot_square.jpg" width="75" height="75" align='center'/>      
 
